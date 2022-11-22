@@ -1,0 +1,18 @@
+arrow keys or number pad to move
+
+move into enemies to attack
+Pick up item: g
+examine your surroundings / look around (x)
+inventory: i
+drop item: d
+
+if your blood goes to 0, you die
+if your trauma goes to 0, you get knocked out until you go above 10 trauma
+attacks deal wounds which will cause you to bleed out.  Wounds slowly heal.   Bandages stop 5 points of bleeding
+
+the less blood or trauma you have left, the more you (or your enemies) will miss.  Trauma loss will cause you to miss 1.5 as much as blood loss.
+spears deal almost entirely wound damage, clubs deal almost entirely trauma damage, swords are somewhere in the middle
+
+press < to descend the stairs (<)
+
+if python crashes, send me a screenshot of the console menu
